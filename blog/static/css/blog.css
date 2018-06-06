@@ -1,0 +1,57 @@
+	h1 a {
+		color: #394c4f; 
+		font-family: 'Inconsolata', monospace;
+	}
+
+	body {
+		padding-left: 20px;
+		background-color: #394c4f; /*Mudar a cor de fundo da pagina*/
+	}
+
+	.page-header {
+		background-color: #de3047;
+		margin-top: 0;
+		padding: 20px 20px 20px 40px;
+	}
+
+	.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+	    color: #394c4f; /*Altera a cor do titulo do blog*/
+	    font-size: 32pt;
+	    text-decoration: none;
+	}
+
+	.content {
+		margin-left:  40px;
+	}
+
+	h1, h2, h3, h4 {
+		font-family: 'Inconsolata', monospace;
+	}
+
+	.date {
+		color: #828282;
+	}
+
+	.save{
+		float: right;
+	}
+
+	.post-form textarea, .post-form input {
+    	width: 100%;
+	}
+
+	.top-menu, .top-menu:hover, .top-menu:visited {
+	    color: #000000;
+	    float: right;
+	    font-size: 26pt;
+	    margin-right: 20px;
+	}
+
+	.post {
+	    margin-bottom: 70px;
+	    color: #c3c3c3; /*Altera a cor do texto da publicação*/
+	}
+
+	.post h1 a, .post h1 a:visited {
+	    color: #00adea; /*Altera a cor do título das publicações*/
+	}
