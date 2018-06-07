@@ -5,7 +5,8 @@
 
 	body{
 		padding-left: 20px;
-		background-color: #394c4f; /*Mudar a cor de fundo da pagina*/
+		padding-right: 20px;
+		background-color: #4C6569; /*Mudar a cor de fundo da pagina*/
 	}
 
 	.page-header {
@@ -26,10 +27,11 @@
 
 	h1, h2, h3, h4 {
 		font-family: 'Inconsolata', monospace;
+		color: #212C2E;
 	}
 
 	.date {
-		color: #828282;
+		color: #CCCCCC;
 	}
 
 	.save{
@@ -53,5 +55,5 @@
 	}
 
 	.post h1 a, .post h1 a:visited {
-	    color: #00adea; /*Altera a cor do título das publicações*/
+	    color: #212C2E; /*Altera a cor do título das publicações*/
 	}
